@@ -1,0 +1,5 @@
+Testing Quadrants
+
+- Testing Quadrants adalah sebuah konsep dalam dunia pengujian perangkat lunak (software testing) yang menggambarkan empat jenis pengujian yang dapat dilakukan berdasarkan dua dimensi utama: jenis pengujian (manual vs. otomatis) dan tujuan pengujian (behavior vs. teknologi). Konsep ini diperkenalkan oleh Brian Marick untuk membantu mengorganisir pendekatan pengujian yang lebih terstruktur.
+
+Testing Quadrants biasanya digambarkan dalam bentuk matriks dengan dua sumbu, di mana sumbu vertikal membedakan antara pengujian yang berfokus pada perilaku (behavior) aplikasi dan yang berfokus pada teknologi (technology) aplikasi, sedangkan sumbu horizontal membedakan antara pengujian manual dan otomatis.
