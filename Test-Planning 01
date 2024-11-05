@@ -1,0 +1,26 @@
+* TePurpose and Content of a test Plan
+* Iteration anda Release Planning
+* Testing Process Plan
+* Test Estimation
+* Test Case Prioritization
+* Testing Quadrants
+* Case Study
+
+ Purpose anda Content of a Test Planning
+ - Test Planning menggambarkn tujuan, sumber daya, dan proses unutk suatu proyek pengujian. Sebuah rencana pengujian: 
+ * MEndokumentasiakan cara dan jadwal yntuk mencapai tujuan pengujian.
+ * Membantu memastikan bahwa aktivitas pengujian yang dilakukan akan memenuhi kriteria yanagn telah ditetapkan.
+ * berfhungsi sebagai sarana komunikasi dengan anggota tim dan pemangku kepentingan lainya.
+ * Menunjukan bahwa pengujian akan mematuhi kebijakan pengujian dan strategi pengujian yang ada (atau menjelaskan mengapa pengujian akan menyimpang dari mereka).
+
+ - Test Planning memandu pemikiran para pengujian dan memaksa mereka untuk meghadapi tantangan masa depan terkait, jadwal, orang, alat, biaya, upaya, dll. Proses penyusunan rencana pengujian adalah cara yang berguna unutk memikirkan upaya yang diperlukan untuk mencapai tujuan proyek pengujian
+
+ Purpose anda Content of a Test Planning
+ - Isi tipikal dari suatu renacna pengujian mencakup:
+ * konteks pengujian (misalnya, cakupan, tujuan pengjuian, kendala, dasar pengujian).
+ * Asumsi dan kendala proyek pengujian
+ * Pemangku kepentingan (misalnya, peran, tanggung jawab, relevansi terhadap pengujian, kebutuhan perekrutan dan pelatihan)
+ * komunikasi (mimsalnya, bentuk dan frekuensi komnikasi, template dokumentasi)
+ * Catatan Risiko (MIsalnya, risiko produk, Risiko proyek).
+ * Pendekatan penguijan (misalnya, tingkat pengujian, jenis pengujian, teknik pengujian, keluaran pengujian, kriteria masuk dan kriteria keluar, kemandirian pengujian, metrik yang akan dikumpulkan, persyaratan data uji, persyratan lingkungan uji, penyimpnagan dari kebijakan dan strategi pengujian organisasi).
+ * Anggran dan jadwal
