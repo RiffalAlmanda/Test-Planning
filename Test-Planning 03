@@ -1,0 +1,89 @@
+Testing Process Plan
+
+- Entry Criteria: Entry Criteria memberikan item prasyarat
+  yang harus diselesaikan sebelum pengujian dapat dimulai.
+- Exit Criteria: Exit Criteria mendefinisikan item yang harus diseleseiakan sebelum pengujian dapat disimpulkan
+
+Requiement Phase Testing
+-Activites in Requiement Phase Testing
+
+- Mengidentifikasi jenis tes yang akan dilakukan.
+- MEngumpulkan detal tentang prioritas dan fokus penguian.
+- Membuat RequiementTraceaility Matrix (RTM)
+- Identifikasi detail lingkungan pengujian dan lokasi pengujian seharusnya dilakukan
+- Automation feasibility analysis (jika diperlukan)
+
+Exit
+
+- Requiement Traceability Matrix (RTM)
+
+Requiements Phase Testing
+
+- Dikenal juga sebeagai Requiements Analysis Testing
+  Persyaratan dari sudut pandang pengujian untuk mengindetifikasi persyaratan yang dapat diuji baik fungsional maupun on-fungsional
+
+Test Planning in STL
+
+- Fase saat manajer QA Senior menentukan strategi rencana pengujian bersama dengan supaya dan perkiraan biaya untuk proyek tersebut. selain itu, sumber daya, lingkungan pengujian,
+  batasan pengujian, dan jadwal pengujian juga di tentukan. Rencana Uji disiapkan dan diselesaikan dalam fase yang sama.
+
+Entry
+
+- Dokumen Requiements ( functional dan non-functional) atau PRD (Product Research Documentation)
+- Acceptance criteria
+- Dokumen aplplication aechitectural atau PRD (Techinal Research Documentation)
+
+Test Case Develoment Phase
+
+- Fase ini melibatkan pembuatn, verifikasi dan pengerjaan ulang kasis uji & skrip uji setelah rencana uji siao. Awalnya, data uji diidentifikasikan kemudian dibuat dan ditinjau dan kemudian dikerjakan ulang berdasarkan persyaratan. kemudian tim QA memulai proses pengembangan kasus uji unutk unit individu.
+
+Entry
+
+- Requiements Documents/PRD
+- Requiements Traceability matric(RTM)
+- Dokumen Test automation feasibility
+
+Test Planning in STL
+
+- Test Planning Activities
+
+* Persiapkan dokumen rencana/strategi pengujian untuk berbagai jenis penguijan
+* Pemilihan test tool
+* Estimasi Test Effort
+* Resource planning serta pembagian role dan kewajiban
+  -Exit
+* Dokumen test plan/strategy
+* Dookumen effeort estimation
+
+Test Case Development Phase
+-Test case Developments Activies
+
+- Membuat test cases, automation script (jika ada)
+- Review and test cases dasar and scripts
+- Membuat test data
+
+Exit
+
+- Dokumen test case dan test data
+
+Test Environment Setup
+
+- Fase unutk emutuskan kondisi softare dan hardware yang perlu di tes. Berjalan parallel dengan Test Case Development. Biasanya sudah dibantu oleh developer untuk menyiapkan. tim penguji wajib melakukan readiness check (smoke tsting) terhadap environment yang ada
+
+Entry
+
+- RTM and test plan
+- Requiements Documents
+- Automation analysis report
+
+Test Environment
+
+- Suatu Test Environment terdiri dari suatu ruang di mana perangkat lunak menjalani serangkaian uji coba dan penggunaan eksperimental. Lingkungan pengujian menguji bagian-bagian tertentu dari suatu aplikasi dan memerlukan pengaturan yang berbeda unutk semua bagian kode.
+
+Test Cyle Closure
+-Test Cylce Closure adalah penyelesaian pelaksanaan pengujian yang melibatkan beberapa kegiatan seperti pelaporan penyelesaian pengujian, pengumpulan matriks penyelesaian pengujian,dan hasil pengujian, Anggota ti pengujian bertemu berdiskusi, dan memnganalisis artefak pengujian unutk engindentifikasi strategi yang harus diterapkan di masa depan, mengambil pelajran dari siklus pengujian saat ini. idenya adalah untuk memnghilangkn hmbatan proses unutk siklus pengujian di masa mendatang.
+
+Entry
+
+- System Design anda architecture documents are avaible
+- Environment set-up plan is avaible.
